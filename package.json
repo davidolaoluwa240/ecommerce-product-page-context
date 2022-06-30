@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-product-page-react-context",
   "version": "0.1.0",
-  "homepage": "https://davidolaoluwa240.github.io/ecommerce-product-page-react-context",
+  "homepage": "https://davidolaoluwa240.github.io/ecommerce-product-page-context",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
